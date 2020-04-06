@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Overcast Delete + Summary Stats
-// @namespace    http://overfast.fm
+// @namespace    http://overcast.fm
 // @version      1.0
 // @description  Add delete buttons, hide podcasts, and summary statistics to Overcast
 // @author       Jeff Long
